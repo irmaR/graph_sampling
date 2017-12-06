@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer
+END
+Plist.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/Plist.pickle
+END
+complete.info
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/complete.info
+END
+all_furer_times.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/all_furer_times.pickle
+END
+final_embeddings.info
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/final_embeddings.info
+END
+average_running_time.time
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/average_running_time.time
+END
+fudicts.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/fudicts.pickle
+END
+monitoring_marks.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/monitoring_marks.pickle
+END
+command.comm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/command.comm
+END
+monitoring_reports.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/irma_results/results_furer/monitoring_reports.pickle
+END

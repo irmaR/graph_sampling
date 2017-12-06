@@ -1,0 +1,165 @@
+10
+
+dir
+364
+https://Irma.Ravkic@scm.cs.kuleuven.be/scm/svn/graph_sampling
+https://Irma.Ravkic@scm.cs.kuleuven.be/scm/svn/graph_sampling
+
+
+
+2017-07-13T07:05:38.375000Z
+364
+Irma.Ravkic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fedbfdac-5801-0010-86bb-a701faf2d579
+
+convert_graph_to_logic
+dir
+
+convertToClause
+dir
+
+.project
+file
+
+
+
+
+2016-11-28T22:44:09.471485Z
+840610c2d8bade984419f8b57bc3fe17
+2016-11-28T22:14:24.994000Z
+1
+Irma.Ravkic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+368
+
+patternGenerator
+dir
+
+graph_creation
+dir
+
+monitor_process
+dir
+
+scripts
+dir
+
+dblp_network
+dir
+
+.pydevproject
+file
+
+
+
+
+2016-12-09T21:59:08.414881Z
+fd8333f6836460d458e5a8d30fcba684
+2016-12-09T21:59:03.336000Z
+59
+Irma.Ravkic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+420
+
+exampleExperiment
+dir
+
+report_results
+dir
+
+yeast_network
+dir
+
+convertCSVToGML
+dir
+
+convert_graph_to_clause
+dir
+
+plotting
+dir
+
+patternSampler
+dir
+
+graph
+dir
+
+experiments
+dir
+
+algorithms
+dir
+
+sampling
+dir
+
+generate_patterns
+dir
+
+networks
+dir
+
+graph_manipulator
+dir
+
+.settings
+dir
+
+sampling_graphs
+dir
+

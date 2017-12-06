@@ -1,0 +1,9 @@
+Exhaustive procedure took 273 seconds.
+Total number of observations: 25888750 
+Number of combinations: 3 
+Number of embeddings: 144076 
+Frequencies in combinations:
+minimum: 3168 
+maximum: 101868 
+mean: 48025 
+median: 39040 

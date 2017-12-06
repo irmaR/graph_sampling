@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp
+END
+fdict_exhaustive_patt4.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/fdict_exhaustive_patt4.pickle
+END
+OBDsearch.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/OBDsearch.py
+END
+sampling_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/sampling_utils.py
+END
+falsefudicts.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/falsefudicts.pickle
+END
+all_furer_times.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/all_furer_times.pickle
+END
+sampler_general_ex.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/sampler_general_ex.py
+END
+experiments_ICDM__patt4patt4.gml.x10.latex
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/experiments_ICDM__patt4patt4.gml.x10.latex
+END
+all_randnode_times.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/all_randnode_times.pickle
+END
+infopickler.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/infopickler.py
+END
+testing_numpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/testing_numpy.py
+END
+all_falsefurer_times.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/all_falsefurer_times.pickle
+END
+extime.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/extime.pickle
+END
+selected_patterns.info
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/selected_patterns.info
+END
+YEAST.gpickle
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/YEAST.gpickle
+END
+fudicts.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/fudicts.pickle
+END
+plot_Y1x1_results.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/plot_Y1x1_results.py
+END
+_info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/_info.txt
+END
+pattern_exhaustive_final_test.gml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/pattern_exhaustive_final_test.gml
+END
+plot_Y1x2_results.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/plot_Y1x2_results.py
+END
+patt4.gml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/patt4.gml
+END
+rndicts.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/scm/svn/graph_sampling/!svn/ver/1/exampleExperiment/pattern4_exp/rndicts.pickle
+END
